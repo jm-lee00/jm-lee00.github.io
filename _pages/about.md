@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science and Engineering at Hanyang University,
-advised by Prof. Yeonjoon Lee.
+I am a Ph.D. Candidate in Computer Science & Engineering at Hanyang University and a member of the [ACE Lab](https://ace.hanyang.ac.kr/), advised by Professor [Yeonjoon Lee](https://scholar.google.com/citations?user=gx1HOgIAAAAJ&hl=ko).
 
-My research interests include AI security, network security,
-large language model security, and cybercrime.
+My research interests include AI security, natural language processing, and cybercrime.
 
 ## Selected Publications
+
+*<span class="venue conference">C</span> Conference &nbsp;&nbsp; <span class="venue journal">J</span> Journal*
 
 <span class="venue conference">C</span>
 <strong class="paper-title">
