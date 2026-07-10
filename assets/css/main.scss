@@ -98,21 +98,11 @@
 }
 
 .author__avatar img {
-  display: block !important;
+    width: 180px;
+    height: 240px;
 
-  width: 175px !important;
-  height: 175px !important;
-  min-width: 175px !important;
-  max-width: 175px !important;
-  min-height: 175px !important;
-  max-height: 175px !important;
+    object-fit: cover;
+    object-position: center top;
 
-  aspect-ratio: 1 / 1;
-  object-fit: cover !important;
-  object-position: center;
-
-  border-radius: 50% !important;
-  box-sizing: border-box;
-  padding: 5px;
-  border: 1px solid var(--global-border-color);
+    border-radius: 50%;
 }
