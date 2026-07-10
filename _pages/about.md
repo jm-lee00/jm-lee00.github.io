@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Computer Science & Engineering at Hanyang University and a member of the [ACE Lab](https://ace.hanyang.ac.kr/), advised by Professor [Yeonjoon Lee](https://scholar.google.com/citations?user=gx1HOgIAAAAJ&hl=ko).
+I am a Ph.D. Candidate in Computer Science & Engineering at [Hanyang University](https://www.hanyang.ac.kr/web/www/home) and a member of the [ACE Lab](https://ace.hanyang.ac.kr/), advised by Professor [Yeonjoon Lee](https://scholar.google.com/citations?user=gx1HOgIAAAAJ&hl=ko).
 
 My research interests include AI security, natural language processing, and cybercrime.
 
@@ -68,12 +68,12 @@ B.S. in Military Information Engineering (Double Major: Computer Science) (Summa
 
 ## Teaching
 
-- Development and Use of Open Source, Teaching Assistant, Fall 2025
-- AI Literacy, Teaching Assistant, Fall 2025
-- Special Convergence Lecture for LIONS, Teaching Assistant, Spring 2025
-- Systems Security, Teaching Assistant, Spring 2025
-- Programming Fundamentals, Teaching Assistant, Spring 2024
-- English for Engineering, Teaching Assistant, Fall 2023
+- Development and Use of Open Source (CUL7128), Teaching Assistant, Fall 2025
+- AI Literacy, Teaching Assistant (CUL7124), Fall 2025
+- Special Convergence Lecture for LIONS (CUL7126), Teaching Assistant, Spring 2025
+- Systems Security (CSE4044), Teaching Assistant, Spring 2025
+- Programming Fundamentals (CSE1017), Teaching Assistant, Spring 2024
+- English for Engineering (CUL1015), Teaching Assistant, Fall 2023
 
 ## Academic Service
 
