@@ -54,8 +54,7 @@ Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee
 
 **Information and Intelligent Security Laboratory**  
 University of Nevada, Las Vegas (UNLV)  
-Sep. 2024 – Feb. 2025  
-Host: Prof. [Junggab Son](https://sites.google.com/site/junggabson/)
+Sep. 2024 – Feb. 2025 (Host: Prof. [Junggab Son](https://sites.google.com/site/junggabson/))
 
 ## Education
 
