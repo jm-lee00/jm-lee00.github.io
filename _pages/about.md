@@ -13,9 +13,9 @@ advised by Prof. Yeonjoon Lee.
 My research interests include AI security, network security,
 large language model security, and cybercrime.
 
-## Publications
+# Selected Publications
 
-### Journal Articles
+## Journal Articles
 
 1. **Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance**  
    **Jungmin Lee**, Sungju Yun, Nahyun Kim, and Yeonjoon Lee  
