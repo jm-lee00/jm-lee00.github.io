@@ -71,7 +71,7 @@
 
     border-radius: 5px;
 
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 700;
 
     line-height: 1.2;
@@ -86,4 +86,33 @@
 .conference {
     background: #FDECEC;
     color: #DC2626;
+}
+
+.author__avatar {
+  display: block !important;
+  width: 175px !important;
+  height: 175px !important;
+  min-width: 175px !important;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.author__avatar img {
+  display: block !important;
+
+  width: 175px !important;
+  height: 175px !important;
+  min-width: 175px !important;
+  max-width: 175px !important;
+  min-height: 175px !important;
+  max-height: 175px !important;
+
+  aspect-ratio: 1 / 1;
+  object-fit: cover !important;
+  object-position: center;
+
+  border-radius: 50% !important;
+  box-sizing: border-box;
+  padding: 5px;
+  border: 1px solid var(--global-border-color);
 }
