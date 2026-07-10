@@ -1,0 +1,291 @@
+---
+import SocialList from "@/components/SocialList.astro";
+import PageLayout from "@/layouts/Base.astro";
+---
+
+<PageLayout meta={{ title: "Jungmin Lee" }}>
+	<section id="about">
+		<h1 class="title mb-6 text-3xl">Jungmin Lee</h1>
+
+		<p class="mb-4 text-lg">
+			Ph.D. Candidate in Computer Science at Hanyang University
+		</p>
+
+		<p class="mb-6">
+			I am a Ph.D. candidate at Hanyang University. My research interests include
+			AI security, natural language processing, and cybercrime.
+		</p>
+
+		<SocialList />
+	</section>
+
+	<section id="publications" class="mt-16">
+		<h2 class="title mb-6 text-xl">Publications</h2>
+		<h3 class="mt-10 mb-4 font-semibold">Conference Papers</h3>
+		<ol class="list-decimal space-y-6 pl-5">
+			<li>
+				<p>
+					<strong>
+						PROMPRINT: Prompt Fingerprinting via First-Token Response
+						for LLM App Cloning Detection
+					</strong>
+				</p>
+				<p>
+					<strong>Jungmin Lee</strong>, Peizhuo Lv, and Yeonjoon Lee
+				</p>
+				<p>
+					<em>Annual Meeting of the Association for Computational Linguistics</em>,
+					2026
+				</p>
+			</li>
+
+			<li>
+				<p>
+					<strong>
+						A Survey of DGA Domain Detection Techniques Using N-gram Features
+						and Deep Learning
+					</strong>
+				</p>
+				<p>
+					<strong>Jungmin Lee</strong> and Yeonjoon Lee
+				</p>
+				<p>
+					Korea Institute of Military Science and Technology Annual Conference,
+					2025
+				</p>
+			</li>
+		</ol>
+
+		<h3 class="mb-4 font-semibold">Journal Articles</h3>
+		<ol class="list-decimal space-y-6 pl-5">
+			<li>
+				<p>
+					<strong>
+						Enhanced DGA Botnet Domain Detection and Family Classification
+						via N-Gram Analysis and Hellinger Distance
+					</strong>
+				</p>
+				<p>
+					<strong>Jungmin Lee</strong>, Sungju Yun, Nahyun Kim, and Yeonjoon Lee
+				</p>
+				<p>
+					<em>Computer Networks</em>, 2025
+				</p>
+				<p class="mt-2">
+					<a
+						href="https://doi.org/10.1016/j.comnet.2025.111415"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
+						DOI
+					</a>
+				</p>
+			</li>
+
+			<li>
+				<p>
+					<strong>
+						Tunnel Enabled Programmable Switches Obfuscate Network Topology
+						to Defend Against Link Flooding Reconnaissance in
+						Software-Defined Networking
+					</strong>
+				</p>
+				<p>
+					Xiang Li, <strong>Jungmin Lee</strong>, Junggab Son, and Yeonjoon Lee
+				</p>
+				<p>
+					<em>Scientific Reports</em>, 2025
+				</p>
+				<p class="mt-2">
+					<a
+						href="https://doi.org/10.1038/s41598-025-19566-7"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
+						DOI
+					</a>
+				</p>
+			</li>
+		</ol>
+
+	</section>
+
+	<section id="patents" class="mt-16">
+		<h2 class="title mb-6 text-xl">Patents</h2>
+
+		<ol class="list-decimal space-y-6 pl-5">
+			<li>
+				<p>
+					<strong>
+						Method for Classifying DGA-Based Botnet Domains Using an
+						Ensemble Model
+					</strong>
+				</p>
+				<p>
+					<strong>Jungmin Lee</strong> and Yeonjoon Lee
+				</p>
+				<p>
+					Korean Patent Application No. 10-2024-0144048, 2024
+				</p>
+			</li>
+
+			<li>
+				<p>
+					<strong>
+						Method for Detecting DGA-Based Botnet Domains Using BERT
+					</strong>
+				</p>
+				<p>
+					<strong>Jungmin Lee</strong> and Yeonjoon Lee
+				</p>
+				<p>
+					Korean Patent Application No. 10-2024-0196140, 2024
+				</p>
+			</li>
+
+			<li>
+				<p>
+					<strong>
+						Transformer-Based Phishing Website Detection Using HTML Tags
+					</strong>
+				</p>
+				<p>
+					Jemin Ahn, <strong>Jungmin Lee</strong>, and Kyungtae Kang
+				</p>
+				<p>
+					Korean Patent Application No. 10-2024-0200515, 2024
+				</p>
+			</li>
+		</ol>
+	</section>
+
+
+	<section id="education" class="mt-16">
+		<h2 class="title mb-6 text-xl">Education</h2>
+
+		<div class="space-y-6">
+			<div>
+				<p>
+					<strong>Hanyang University</strong>
+				</p>
+				<p>
+					Ph.D. in Computer Science & Engineering,
+					Mar. 2023–Present
+				</p>
+				<p>
+					Advisor: Prof. Yeonjoon Lee
+				</p>
+			</div>
+
+			<div>
+				<p>
+					<strong>Hanyang University ERICA</strong>
+				</p>
+				<p>
+					B.S. in Military Information Engineering,
+					Double Major in Computer Science, Feb. 2023 (Summa Cum Laude)
+				</p>
+			</div>
+		</div>
+	</section>
+
+	<section id="experience" class="mt-16">
+		<h2 class="title mb-6 text-xl">Experience</h2>
+
+		<div class="space-y-6">
+			<div>
+				<p>
+					<strong>Visiting Scholar</strong>
+				</p>
+				<p>
+					Information and Intelligent Security Laboratory<br />
+					University of Nevada, Las Vegas · Sep. 2024–Mar. 2025
+				</p>
+				<p>
+					Host: Prof. Junggab Son
+				</p>
+			</div>
+		</div>
+	</section>
+
+	<section id="teaching" class="mt-16">
+		<h2 class="title mb-6 text-xl">Teaching</h2>
+
+		<div class="space-y-6">
+			<div>
+				<p>
+					<strong>Development and Use of Open Source</strong>
+				</p>
+				<p>Teaching Assistant, Hanyang University · Fall 2025</p>
+			</div>
+
+			<div>
+				<p>
+					<strong>AI Literacy</strong>
+				</p>
+				<p>Teaching Assistant, Hanyang University · Fall 2025</p>
+			</div>
+
+			<div>
+				<p>
+					<strong>Systems Security</strong>
+				</p>
+				<p>Teaching Assistant, Hanyang University · Spring 2025</p>
+			</div>
+
+			<div>
+				<p>
+					<strong>Special Convergence Lecture for LIONS</strong>
+				</p>
+				<p>Teaching Assistant, Hanyang University · Spring 2025</p>
+			</div>
+
+			<div>
+				<p>
+					<strong>Programming Fundamentals</strong>
+				</p>
+				<p>Teaching Assistant, Hanyang University · Spring 2024</p>
+			</div>
+
+			<div>
+				<p>
+					<strong>English for Engineering</strong>
+				</p>
+				<p>Teaching Assistant, Hanyang University · Fall 2023</p>
+			</div>
+		</div>
+	</section>
+
+	<section id="service" class="mt-16">
+		<h2 class="title mb-6 text-xl">Academic Service</h2>
+
+		<div class="space-y-4">
+			<div>
+				<p><strong>Reviewer</strong></p>
+				<p>
+					NeurIPS · IEEE Transactions on Dependable and Secure Computing
+					· IEEE International Conference on Communications
+				</p>
+			</div>
+		</div>
+	</section>
+
+	<section id="honors" class="mt-16">
+		<h2 class="title mb-6 text-xl">Honors and Scholarships</h2>
+
+		<ul class="space-y-4">
+			<li>
+				<strong>3·1 Cultural Foundation Scholarship</strong>, 2025–2026
+			</li>
+			<li>
+				<strong>Hanyang Brain Scholarship</strong>, Hanyang University,
+				2019–2022
+			</li>
+			<li>
+				<strong>Leadership Scholarship</strong>, Hanyang University,
+				2019–2022
+			</li>
+		</ul>
+	</section>
+
+</PageLayout>
