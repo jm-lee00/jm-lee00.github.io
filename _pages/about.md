@@ -16,19 +16,16 @@ large language model security, and cybercrime.
 ## Selected Publications
 
 <span class="venue conference">ACL 2026 (Main)</span>
-
 **PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection**
 <span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee
 *Annual Meeting of the Association for Computational Linguistics*, 2026
 
 <span class="venue journal">COMNET</span>
-
 **Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance**  
 <span class="me">Jungmin Lee</span>, Sungju Yun, Nahyun Kim, and Yeonjoon Lee  
 *Computer Networks*, 2025
 
 <span class="venue journal">SciRep</span>
-
 **Tunnel Enabled Programmable Switches Obfuscate Network Topology to Defend Against Link Flooding Reconnaissance in Software-Defined Networking**  
 Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee  
 *Scientific Reports*, 2025  
