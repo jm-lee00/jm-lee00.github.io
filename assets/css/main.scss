@@ -37,3 +37,31 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.me {
+    font-weight: 700;
+    border-bottom: 2px solid currentColor;
+    padding-bottom: 1px;
+}
+
+.journal {
+    background: #DBEAFE;
+    color: #1D4ED8;
+}
+
+.venue {
+    display: inline-block;
+    padding: 4px 10px;
+    margin-bottom: 10px;
+
+    border-radius: 6px;
+
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: .03em;
+}
+
+.conference {
+    background: #FEE2E2;
+    color: #DC2626;
+}

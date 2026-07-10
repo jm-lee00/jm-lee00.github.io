@@ -13,57 +13,42 @@ advised by Prof. Yeonjoon Lee.
 My research interests include AI security, network security,
 large language model security, and cybercrime.
 
-# Selected Publications
+## Selected Publications
 
-## Journal Articles
+<span class="venue conference">ACL 2026 (Main)</span>
 
-1. **Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance**  
-   **Jungmin Lee**, Sungju Yun, Nahyun Kim, and Yeonjoon Lee  
-   *Computer Networks*, 2025  
-   [DOI](https://doi.org/10.1016/j.comnet.2025.111415)
+**PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection**
+<span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee
+*Annual Meeting of the Association for Computational Linguistics*, 2026
 
-2. **Tunnel Enabled Programmable Switches Obfuscate Network Topology to Defend Against Link Flooding Reconnaissance in Software-Defined Networking**  
-   Xiang Li, **Jungmin Lee**, Junggab Son, and Yeonjoon Lee  
-   *Scientific Reports*, 2025  
-   [DOI](https://doi.org/10.1038/s41598-025-19566-7)
+<span class="venue journal">COMNET</span>
 
-### Conference Papers
+**Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance**  
+<span class="me">Jungmin Lee</span>, Sungju Yun, Nahyun Kim, and Yeonjoon Lee  
+*Computer Networks*, 2025
 
-1. **PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection**  
-   **Jungmin Lee**, Peizhuo Lv, and Yeonjoon Lee  
-   *Annual Meeting of the Association for Computational Linguistics*, 2026
+<span class="venue journal">SciRep</span>
 
-2. **A Survey of DGA Domain Detection Techniques Using N-gram Features and Deep Learning**  
-   **Jungmin Lee** and Yeonjoon Lee  
-   Korea Institute of Military Science and Technology Annual Conference, 2025
-
-3. **Survey on DGA Botnet Domain Detection and Family Classification**  
-   **Jungmin Lee**, Minjae Kang, and Yeonjoon Lee  
-   ACK, 2023
-
-4. **Survey on Network Traffic Classification Using AI**  
-   **Jungmin Lee**, Minjae Kang, and Yeonjoon Lee  
-   CISC-S, 2023
-
-5. **Trend of Network Traffic Classification Using Machine Learning and Deep Learning**  
-   **Jungmin Lee** and Yeonjoon Lee  
-   ASK, 2023
+**Tunnel Enabled Programmable Switches Obfuscate Network Topology to Defend Against Link Flooding Reconnaissance in Software-Defined Networking**  
+Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee  
+*Scientific Reports*, 2025  
+[Paper](https://doi.org/10.1038/s41598-025-19566-7)
 
 ## Patents
 
 1. **Method for Classifying DGA-Based Botnet Domains Using an Ensemble Model**  
-   **Jungmin Lee** and Yeonjoon Lee  
+   <span class="me">Jungmin Lee</span> and Yeonjoon Lee  
    Korean Patent Application No. 10-2024-0144048, 2024
 
 2. **Method for Detecting DGA-Based Botnet Domains Using BERT**  
-   **Jungmin Lee** and Yeonjoon Lee  
+   <span class="me">Jungmin Lee</span> and Yeonjoon Lee  
    Korean Patent Application No. 10-2024-0196140, 2024
 
 3. **Transformer-Based Phishing Website Detection Using HTML Tags**  
-   Jemin Ahn, **Jungmin Lee**, and Kyungtae Kang  
+   Jemin Ahn, <span class="me">Jungmin Lee</span>, and Kyungtae Kang  
    Korean Patent Application No. 10-2024-0200515, 2024
 
-## Research Experience
+## Experience
 
 ### Visiting Scholar
 
@@ -75,17 +60,16 @@ Host: Prof. Junggab Son
 ## Education
 
 ### Hanyang University
-
+Hanyang University, Ansan, South Korea 
 Integrated M.S./Ph.D. Program in Computer Science and Engineering  
 Mar. 2023 – Present  
-Advisor: Prof. Yeonjoon Lee, ACE Lab
+Advisor: Prof. Yeonjoon Lee
 
 ### Hanyang University ERICA
-
-B.Eng. in Military Information Engineering  
+Hanyang University, Ansan, South Korea
+B.S. in Military Information Engineering (Summa Cum Laude)
 Double Major in Computer Science  
 2019 – 2023  
-GPA: 4.12/4.5, graduated second in the department
 
 ## Teaching
 
@@ -98,9 +82,10 @@ GPA: 4.12/4.5, graduated second in the department
 
 ## Academic Service
 
-- Reviewer, NeurIPS, 2026
-- Reviewer, IEEE Transactions on Dependable and Secure Computing, 2026
-- Reviewer, IEEE International Conference on Communications, 2025
+### Reviewer
+- NeurIPS
+- IEEE Transactions on Dependable and Secure Computing
+- IEEE International Conference on Communications
 
 ## Honors and Scholarships
 
