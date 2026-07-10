@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. Candidate in Computer Science & Engineering at [Hanyang University](https://www.hanyang.ac.kr/web/www/home) and a member of the [ACE Lab](https://ace.hanyang.ac.kr/), advised by Professor [Yeonjoon Lee](https://scholar.google.com/citations?user=gx1HOgIAAAAJ&hl=ko).
 
-My research interests include AI security, natural language processing, and cybercrime.
+My research interests include AI security, cybercrime, and natural language processing.
 
 ## Selected Publications
 
