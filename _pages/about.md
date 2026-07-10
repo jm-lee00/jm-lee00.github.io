@@ -36,15 +36,15 @@ Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee
 
 ## Patents
 
-1. **Method for Classifying DGA-Based Botnet Domains Using an Ensemble Model**  
+- **Method for Classifying DGA-Based Botnet Domains Using an Ensemble Model**  
    <span class="me">Jungmin Lee</span> and Yeonjoon Lee  
    Korean Patent Application No. 10-2024-0144048, 2024
 
-2. **Method for Detecting DGA-Based Botnet Domains Using BERT**  
+- **Method for Detecting DGA-Based Botnet Domains Using BERT**  
    <span class="me">Jungmin Lee</span> and Yeonjoon Lee  
    Korean Patent Application No. 10-2024-0196140, 2024
 
-3. **Transformer-Based Phishing Website Detection Using HTML Tags**  
+- **Transformer-Based Phishing Website Detection Using HTML Tags**  
    Jemin Ahn, <span class="me">Jungmin Lee</span>, and Kyungtae Kang  
    Korean Patent Application No. 10-2024-0200515, 2024
 
@@ -54,31 +54,29 @@ Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee
 
 **Information and Intelligent Security Laboratory**  
 University of Nevada, Las Vegas  
-Sep. 2024 – Mar. 2025  
+Sep. 2024 – Feb. 2025  
 Host: Prof. Junggab Son
 
 ## Education
 
 ### Hanyang University
-Hanyang University, Ansan, South Korea 
-Integrated M.S./Ph.D. Program in Computer Science and Engineering  
+Hanyang University, Ansan, South Korea  
+Integrated M.S./Ph.D. Program in Computer Science & Engineering  
 Mar. 2023 – Present  
-Advisor: Prof. Yeonjoon Lee
 
 ### Hanyang University ERICA
-Hanyang University, Ansan, South Korea
-B.S. in Military Information Engineering (Summa Cum Laude)
-Double Major in Computer Science  
+Hanyang University, Ansan, South Korea  
+B.S. in Military Information Engineering (Double Major: Computer Science) (Summa Cum Laude)  
 2019 – 2023  
 
 ## Teaching
 
-- **Development and Use of Open Source**, Teaching Assistant, Fall 2025
-- **AI Literacy**, Teaching Assistant, Fall 2025
-- **Special Convergence Lecture for LIONS**, Teaching Assistant, Spring 2025
-- **Systems Security**, Teaching Assistant, Spring 2025
-- **Programming Fundamentals**, Teaching Assistant, Spring 2024
-- **English for Engineering**, Teaching Assistant, Fall 2023
+- Development and Use of Open Source, Teaching Assistant, Fall 2025
+- AI Literacy, Teaching Assistant, Fall 2025
+- Special Convergence Lecture for LIONS, Teaching Assistant, Spring 2025
+- Systems Security, Teaching Assistant, Spring 2025
+- Programming Fundamentals, Teaching Assistant, Spring 2024
+- English for Engineering, Teaching Assistant, Fall 2023
 
 ## Academic Service
 
@@ -89,6 +87,6 @@ Double Major in Computer Science
 
 ## Honors and Scholarships
 
-- 3·1 Cultural Foundation Scholarship, 2025–2026
+- Samil Scholarship, 2025–2026
 - Hanyang Brain Scholarship, 2019–2022
 - Leadership Scholarship, 2019–2022
