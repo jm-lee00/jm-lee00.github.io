@@ -20,7 +20,7 @@ My research interests include AI security, natural language processing, and cybe
 PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection
 </strong> [[Paper]](https://aclanthology.org/2026.acl-long.1052/)  
 <span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee  
-*ACL Main*, 2026
+<span class="paper-meta">ACL Main, 2026</span>
 
 <span class="venue journal">J</span>
 <strong class="paper-title">
@@ -53,9 +53,9 @@ Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee
 ### Visiting Scholar
 
 **Information and Intelligent Security Laboratory**  
-University of Nevada, Las Vegas  
+University of Nevada, Las Vegas (UNLV)  
 Sep. 2024 – Feb. 2025  
-Host: Prof. Junggab Son
+Host: Prof. [Junggab Son](https://sites.google.com/site/junggabson/)
 
 ## Education
 
