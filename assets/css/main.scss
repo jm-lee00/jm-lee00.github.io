@@ -44,24 +44,44 @@
     padding-bottom: 1px;
 }
 
+// .journal {
+//     background: #DBEAFE;
+//     color: #1D4ED8;
+// }
 .journal {
-    background: #DBEAFE;
-    color: #1D4ED8;
+    background: #E8F1FF;
+    color: #2563EB;
 }
 
+// .venue {
+//     display: inline-block;
+//     padding: 4px 10px;
+//     margin-bottom: 10px;
+
+//     border-radius: 6px;
+
+//     font-size: 0.72rem;
+//     font-weight: 700;
+//     letter-spacing: .03em;
+// }
 .venue {
     display: inline-block;
-    padding: 4px 10px;
-    margin-bottom: 10px;
 
-    border-radius: 6px;
+    padding: 1px 6px;
 
-    font-size: 0.72rem;
+    border-radius: 4px;
+
+    font-size: 0.65rem;
     font-weight: 700;
-    letter-spacing: .03em;
+
+    line-height: 1.2;
 }
 
+// .conference {
+//     background: #FEE2E2;
+//     color: #DC2626;
+// }
 .conference {
-    background: #FEE2E2;
+    background: #FDECEC;
     color: #DC2626;
 }

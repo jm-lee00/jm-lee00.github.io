@@ -17,21 +17,18 @@ large language model security, and cybercrime.
 
 <span class="venue conference">C</span>
 **PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection**  
-
 <span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee  
-*ACL Main, 2026 [Paper](https://aclanthology.org/2026.acl-long.1052/)
+*ACL Main*, 2026 [[Paper]](https://aclanthology.org/2026.acl-long.1052/)
 
 <span class="venue journal">J</span>
 **Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance**  
-
 <span class="me">Jungmin Lee</span>, Sungju Yun, Nahyun Kim, and Yeonjoon Lee  
-*Computer Networks*, 2025 [Paper](https://doi.org/10.1016/j.comnet.2025.111415)
+*Computer Networks*, 2025 [[Paper]](https://doi.org/10.1016/j.comnet.2025.111415)
 
 <span class="venue journal">J</span>
 **Tunnel Enabled Programmable Switches Obfuscate Network Topology to Defend Against Link Flooding Reconnaissance in Software-Defined Networking**  
-
 Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee  
-*Scientific Reports*, 2025 [Paper](https://doi.org/10.1038/s41598-025-19566-7)
+*Scientific Reports*, 2025 [[Paper]](https://doi.org/10.1038/s41598-025-19566-7)
 
 ## Patents
 
