@@ -16,17 +16,21 @@ large language model security, and cybercrime.
 ## Selected Publications
 
 <span class="venue conference">C</span>
-**PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection** [[Paper]](https://aclanthology.org/2026.acl-long.1052/)  
+<strong class="paper-title">
+PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection
+</strong> [[Paper]](https://aclanthology.org/2026.acl-long.1052/)  
 <span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee  
 *ACL Main*, 2026
 
 <span class="venue journal">J</span>
-**Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance** [[Paper]](https://doi.org/10.1016/j.comnet.2025.111415)  
+<strong class="paper-title">
+Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance </strong> [[Paper]](https://doi.org/10.1016/j.comnet.2025.111415)  
 <span class="me">Jungmin Lee</span>, Sungju Yun, Nahyun Kim, and Yeonjoon Lee  
 *Computer Networks*, 2025
 
 <span class="venue journal">J</span>
-**Tunnel Enabled Programmable Switches Obfuscate Network Topology to Defend Against Link Flooding Reconnaissance in Software-Defined Networking** [[Paper]](https://doi.org/10.1038/s41598-025-19566-7)  
+<strong class="paper-title">
+Tunnel Enabled Programmable Switches Obfuscate Network Topology to Defend Against Link Flooding Reconnaissance in Software-Defined Networking </strong> [[Paper]](https://doi.org/10.1038/s41598-025-19566-7)  
 Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee  
 *Scientific Reports*, 2025
 
