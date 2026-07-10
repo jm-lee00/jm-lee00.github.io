@@ -20,7 +20,7 @@ My research interests include AI security, natural language processing, and cybe
 PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection
 </strong> [[Paper]](https://aclanthology.org/2026.acl-long.1052/)  
 <span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee  
-<span class="paper-meta">ACL Main, 2026</span>
+*ACL Main*, 2026
 
 <span class="venue journal">J</span>
 <strong class="paper-title">
