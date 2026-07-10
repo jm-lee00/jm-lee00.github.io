@@ -16,7 +16,7 @@ large language model security, and cybercrime.
 ## Selected Publications
 
 <span class="venue conference">ACL 2026 (Main)</span>
-**PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection**
+**PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection**  
 <span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee
 *Annual Meeting of the Association for Computational Linguistics*, 2026
 
