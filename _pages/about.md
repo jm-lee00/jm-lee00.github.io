@@ -59,13 +59,11 @@ Host: Prof. Junggab Son
 
 ## Education
 
-### Hanyang University
-Hanyang University, Ansan, South Korea  
+### Hanyang University 
 Integrated M.S./Ph.D. Program in Computer Science & Engineering  
 Mar. 2023 – Present  
 
-### Hanyang University ERICA
-Hanyang University, Ansan, South Korea  
+### Hanyang University ERICA  
 B.S. in Military Information Engineering (Double Major: Computer Science) (Summa Cum Laude)  
 2019 – 2023  
 
