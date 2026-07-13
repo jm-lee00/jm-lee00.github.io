@@ -11,7 +11,7 @@ I am a Ph.D. Candidate in Computer Science & Engineering at [Hanyang University]
 
 My research interests include AI security, cybercrime, and natural language processing.
 
-## Selected Publications
+## [Selected Publications]
 
 *<span class="venue conference">C</span> Conference &nbsp;&nbsp; <span class="venue journal">J</span> Journal*
 
@@ -34,7 +34,7 @@ Tunnel Enabled Programmable Switches Obfuscate Network Topology to Defend Agains
 Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee  
 *Scientific Reports*, 2025
 
-## Patents
+## [Patents]
 
 - **Method for Classifying DGA-Based Botnet Domains Using an Ensemble Model**  
    <span class="me">Jungmin Lee</span> and Yeonjoon Lee  
@@ -48,15 +48,13 @@ Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee
    Jemin Ahn, <span class="me">Jungmin Lee</span>, and Kyungtae Kang  
    Korean Patent Application No. 10-2024-0200515, 2024
 
-## Experience
+## [Experience]
 
-### Visiting Scholar
+- Information and Intelligent Security Laboratory  
+   Visiting Scholar at the University of Nevada, Las Vegas (UNLV)  
+   Sep. 2024 – Feb. 2025 (Host: Prof. [Junggab Son](https://sites.google.com/site/junggabson/))
 
-**Information and Intelligent Security Laboratory**  
-University of Nevada, Las Vegas (UNLV)  
-Sep. 2024 – Feb. 2025 (Host: Prof. [Junggab Son](https://sites.google.com/site/junggabson/))
-
-## Education
+## [Education]
 
 ### Hanyang University 
 Integrated M.S./Ph.D. Program in Computer Science & Engineering  
@@ -66,7 +64,7 @@ Mar. 2023 – Present
 B.S. in Military Information Engineering (Double Major: Computer Science) (Summa Cum Laude)  
 Mar. 2019 – Feb. 2023  
 
-## Teaching
+## [Teaching]
 
 - Development and Use of Open Source (CUL7128), Teaching Assistant, Fall 2025
 - AI Literacy (CUL7124), Teaching Assistant, Fall 2025
@@ -75,14 +73,14 @@ Mar. 2019 – Feb. 2023
 - Programming Fundamentals (CSE1017), Teaching Assistant, Spring 2024
 - English for Engineering (CUL1015), Teaching Assistant, Fall 2023
 
-## Academic Service
+## [Academic Service]
 
 ### Reviewer
 - NeurIPS
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE International Conference on Communications
 
-## Honors and Scholarships
+## [Honors and Scholarships]
 
 - Samil Scholarship, 2025–2026
 - Hanyang Brain Scholarship, 2019–2022
