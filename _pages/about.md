@@ -57,8 +57,9 @@ Integrated M.S./Ph.D. Program in Computer Science & Engineering
 Mar. 2023 – Present  
 
 ### Hanyang University ERICA  
-B.S. in Military Information Engineering (Double Major: Computer Science) (Summa Cum Laude)  
+B.S. in Military Information Engineering (Double Major: Computer Science), *Summa Cum Laude*  
 Mar. 2019 – Feb. 2023  
+*(Department Student Representative, 8 consecutive semesters)*
 
 ## [Teaching]
 
@@ -76,8 +77,9 @@ Mar. 2019 – Feb. 2023
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE International Conference on Communications
 
-## [Honors and Scholarships]
+## [Honors & Scholarships]
 
 - Samil Scholarship, 2025–2026
+- HY-iN Scholarship, 2023-2024
 - Hanyang Brain Scholarship, 2019–2022
 - Leadership Scholarship, 2019–2022
