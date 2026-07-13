@@ -29,8 +29,7 @@ Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analys
 *Computer Networks*, 2025
 
 <span class="venue journal">J</span>
-<strong class="paper-title">
-Tunnel Enabled Programmable Switches Obfuscate Network Topology to Defend Against Link Flooding Reconnaissance in Software-Defined Networking </strong> [[Paper]](https://doi.org/10.1038/s41598-025-19566-7)  
+**Tunnel Enabled Programmable Switches Obfuscate Network Topology to Defend Against Link Flooding Reconnaissance in Software-Defined Networking** [[Paper]](https://doi.org/10.1038/s41598-025-19566-7)  
 Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee  
 *Scientific Reports*, 2025
 
