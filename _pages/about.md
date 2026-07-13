@@ -16,12 +16,12 @@ My research interests include AI security, cybercrime, and natural language proc
 *<span class="venue conference">C</span> Conference &nbsp;&nbsp; <span class="venue journal">J</span> Journal*
 
 <span class="venue conference">C</span>
-** PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection** [[Paper]](https://aclanthology.org/2026.acl-long.1052/)  
+**PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection** [[Paper]](https://aclanthology.org/2026.acl-long.1052/)  
 <span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee  
 *ACL Main*, 2026
 
 <span class="venue journal">J</span>
-**Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance ** [[Paper]](https://doi.org/10.1016/j.comnet.2025.111415)  
+**Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance** [[Paper]](https://doi.org/10.1016/j.comnet.2025.111415)  
 <span class="me">Jungmin Lee</span>, Sungju Yun, Nahyun Kim, and Yeonjoon Lee  
 *Computer Networks*, 2025
 
