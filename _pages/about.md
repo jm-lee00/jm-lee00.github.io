@@ -69,7 +69,7 @@ B.S. in Military Information Engineering (Double Major: Computer Science) (Summa
 ## Teaching
 
 - Development and Use of Open Source (CUL7128), Teaching Assistant, Fall 2025
-- AI Literacy, Teaching Assistant (CUL7124), Fall 2025
+- AI Literacy (CUL7124), Teaching Assistant, Fall 2025
 - Special Convergence Lecture for LIONS (CUL7126), Teaching Assistant, Spring 2025
 - Systems Security (CSE4044), Teaching Assistant, Spring 2025
 - Programming Fundamentals (CSE1017), Teaching Assistant, Spring 2024
