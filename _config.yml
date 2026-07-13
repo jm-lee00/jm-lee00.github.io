@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : ""
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Jungmin Lee"
 description              : "Jungmin Lee is a Ph.D. Candidate in Computer Science & Engineering at Hanyang University. His research interests include AI Security, Cybersecurity, and Natural Language Processing."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jm-lee00.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "linkedin.com/in/jungmin-lee-861bb1345"
+  linkedin         : "jungmin-lee-861bb1345"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
