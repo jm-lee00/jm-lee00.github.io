@@ -80,6 +80,6 @@ Mar. 2019 – Feb. 2023
 ## [Honors & Scholarships]
 
 - Samil Scholarship, 2025–2026
-- HY-iN Scholarship, 2023-2024
+- HY-iN Scholarship, 2023–2024
 - Hanyang Brain Scholarship, 2019–2022
 - Leadership Scholarship, 2019–2022
