@@ -64,7 +64,7 @@ Mar. 2023 – Present
 
 ### Hanyang University ERICA  
 B.S. in Military Information Engineering (Double Major: Computer Science) (Summa Cum Laude)  
-2019 – 2023  
+Mar. 2019 – Feb. 2023  
 
 ## Teaching
 
