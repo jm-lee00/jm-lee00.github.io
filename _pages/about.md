@@ -32,21 +32,21 @@ Xiang Li, <span class="me">Jungmin Lee</span>, Junggab Son, and Yeonjoon Lee
 
 ## [Patents]
 
-- **Method for Classifying DGA-Based Botnet Domains Using an Ensemble Model**  
+**Method for Classifying DGA-Based Botnet Domains Using an Ensemble Model**  
    <span class="me">Jungmin Lee</span> and Yeonjoon Lee  
    Korean Patent Application No. 10-2024-0144048, 2024
 
-- **Method for Detecting DGA-Based Botnet Domains Using BERT**  
+**Method for Detecting DGA-Based Botnet Domains Using BERT**  
    <span class="me">Jungmin Lee</span> and Yeonjoon Lee  
    Korean Patent Application No. 10-2024-0196140, 2024
 
-- **Transformer-Based Phishing Website Detection Using HTML Tags**  
+**Transformer-Based Phishing Website Detection Using HTML Tags**  
    Jemin Ahn, <span class="me">Jungmin Lee</span>, and Kyungtae Kang  
    Korean Patent Application No. 10-2024-0200515, 2024
 
 ## [Experience]
 
-- Information and Intelligent Security Laboratory  
+**Information and Intelligent Security Laboratory**  
    Visiting Scholar at the University of Nevada, Las Vegas (UNLV)  
    Sep. 2024 – Feb. 2025 (Host: Prof. [Junggab Son](https://sites.google.com/site/junggabson/))
 
