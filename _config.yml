@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : ""
 title_separator          : "-"
 name                     : &name "Jungmin Lee"
-description              : #&description "blah blah"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Jungmin Lee is a Ph.D. Candidate in Computer Science & Engineering at Hanyang University. His research interests include AI Security, Cybersecurity, and Natural Language Processing."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jm-lee00.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
