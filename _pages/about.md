@@ -14,10 +14,11 @@ My research interests include AI security, Cybersecurity, and Natural Language P
 ## [Selected Publications]
 
 *<span class="venue conference">C</span> Conference &nbsp;&nbsp; <span class="venue journal">J</span> Journal*
+<small><sup>*</sup> Equal contribution</small>
 
 <span class="venue journal">J</span>
 **Privacy Preserving Network Traffic Generation and Domain Transfer for Data-Scarce IoT Environments** [[Paper]](https://ieeexplore.ieee.org/document/11676115)  
-Minjae Kang, Gunhee Cho, Sungju Yun, Nahyun Kim, <span class="me">Jungmin Lee</span>, and Yeonjoon Lee  
+Minjae Kang<sup>*</sup>, Gunhee Cho<sup>*</sup>, Sungju Yun, Nahyun Kim, <span class="me">Jungmin Lee</span>, and Yeonjoon Lee  
 *IEEE Internet of Things Journal*, 2026
 
 <span class="venue conference">C</span>
