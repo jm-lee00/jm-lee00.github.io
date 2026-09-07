@@ -15,6 +15,12 @@ My research interests include AI security, Cybersecurity, and Natural Language P
 
 *<span class="venue conference">C</span> Conference &nbsp;&nbsp; <span class="venue journal">J</span> Journal*
 
+<span class="venue journal">J</span>
+**Privacy Preserving Network Traffic Generation and Domain Transfer for Data-Scarce IoT Environments
+** [[Paper]](https://ieeexplore.ieee.org/document/11676115)  
+<span class="me">Minjae Kang, Gunhee Cho, Sungju Yun, Nahyun Kim, Jungmin Lee</span>, and Yeonjoon Lee 
+*IEEE Internet of Things Journal*, 2026
+
 <span class="venue conference">C</span>
 **PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection** [[Paper]](https://aclanthology.org/2026.acl-long.1052/)  
 <span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee  
