@@ -13,8 +13,7 @@ My research interests include AI security, Cybersecurity, and Natural Language P
 
 ## [Selected Publications]
 
-*<span class="venue conference">C</span> Conference &nbsp;&nbsp; <span class="venue journal">J</span> Journal*
-<small><sup>*</sup> Equal contribution</small>
+*<span class="venue conference">C</span> Conference &nbsp;&nbsp; <span class="venue journal">J</span> Journal &nbsp;&nbsp; <span class="venue equal">*</span> Equal contribution*
 
 <span class="venue journal">J</span>
 **Privacy Preserving Network Traffic Generation and Domain Transfer for Data-Scarce IoT Environments** [[Paper]](https://ieeexplore.ieee.org/document/11676115)  
