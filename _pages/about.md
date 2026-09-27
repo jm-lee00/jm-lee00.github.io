@@ -80,7 +80,7 @@ Mar. 2019 – Feb. 2023
 ## [Academic Service]
 
 ### Reviewer
-- Annual Conference on Neural Information Processing Systems (NeurIPS)
+- Conference on Neural Information Processing Systems (NeurIPS)
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE International Conference on Communications
 
