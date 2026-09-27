@@ -25,7 +25,7 @@ Minjae Kang<sup>&#42;</sup>, Gunhee Cho<sup>&#42;</sup>, Sungju Yun, Nahyun Kim,
 <span class="venue conference">C</span>
 **PROMPRINT: Prompt Fingerprinting via First-Token Response for LLM App Cloning Detection** [[Paper]](https://aclanthology.org/2026.acl-long.1052/)  
 <span class="me">Jungmin Lee</span>, Peizhuo Lv, and Yeonjoon Lee  
-*ACL Main*, 2026
+*Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026
 
 <span class="venue journal">J</span>
 **Enhanced DGA Botnet Domain Detection and Family Classification via N-Gram Analysis and Hellinger Distance** [[Paper]](https://doi.org/10.1016/j.comnet.2025.111415)  
@@ -80,7 +80,7 @@ Mar. 2019 – Feb. 2023
 ## [Academic Service]
 
 ### Reviewer
-- NeurIPS
+- Annual Conference on Neural Information Processing Systems (NeurIPS)
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE International Conference on Communications
 
