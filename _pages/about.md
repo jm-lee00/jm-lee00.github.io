@@ -81,6 +81,7 @@ Mar. 2019 – Feb. 2023
 
 ### Reviewer
 - ACM Conference on Human Factors in Computing Systems (CHI)
+- ACL Rolling Review (ARR)
 - Conference on Neural Information Processing Systems (NeurIPS)
 - IEEE International Conference on Communications (ICC)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
